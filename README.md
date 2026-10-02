@@ -1,90 +1,77 @@
-# Ali Al-Jalo  
+# Ali Al-Jalo
+
 ### Backend Developer | Java & Spring Boot
 
-Backend Developer specialized in building scalable, maintainable, and production-ready backend systems using Java and Spring Boot.  
-Focused on clean architecture, RESTful API design, and database-driven applications.
+I build backend projects with Java and Spring Boot, focusing on REST APIs,
+database design, validation, and maintainable service layers. My current work
+also explores Spring AI and the Model Context Protocol (MCP).
 
----
+## Technical focus
 
-## 👨‍💻 Professional Summary
+- Java, Spring Boot, Spring Security, JPA / Hibernate, and MySQL
+- REST API design, DTO mapping, validation, and exception handling
+- Maven, Git, Docker, and GitHub Actions
+- Spring AI, Ollama, and MCP integration through Offeria
 
-- Backend Developer within the Java ecosystem
-- Designing and developing RESTful APIs using Spring Boot
-- Strong foundation in OOP, SOLID principles, and layered architecture
-- Experience with MySQL, JPA, and Hibernate
-- Writing clean, testable, and maintainable production-level code
-- Continuously improving in System Design and Microservices
+## Selected projects
 
----
+These descriptions reflect the code currently present. The projects are still
+under development; implemented features do not imply a completed production deployment.
 
-## 🚀 Technical Skills
+### [Offeria — Material Knowledge Base & MCP](https://github.com/offeria-io)
 
-### 💻 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,git" />
-</p>
+An RFQ automation platform under development. The material service contains
+database migrations, material aliases, spreadsheet staging and review, and
+Spring AI / Ollama integration for material matching. An MCP server exposes
+material tools. Completing the platform's service integration and RFQ / proposal
+delivery remains ongoing work.
 
-### 🧪 Testing & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,postman,maven" />
-</p>
+- [Material service](https://github.com/offeria-io/material-service)
+- [MCP server](https://github.com/offeria-io/offeria-mcp-server)
 
----
+### [Clinic Management System](https://github.com/aljalo/Clinic-Management-System)
 
-## 📌 Featured Projects
+A Spring Boot backend with patient management, JWT authentication and roles,
+and MySQL persistence. Doctor and appointment management are planned extensions;
+they are not implemented in the current repository.
 
-### 🏥 Clinic Management System
-Full-featured backend system for managing patients, doctors, and appointments, built with Spring Boot and MySQL following clean architecture principles.
+### [Bank Management — Spring Boot](https://github.com/aljalo/bank-management-system-spring-boot)
 
-**Key Features:**
-- RESTful API Design
-- Entity Relationships (JPA / Hibernate)
-- Request Validation & Global Exception Handling
-- Layered Architecture (Controller / Service / Repository)
-- Business Logic Enforcement (Appointment Scheduling Rules)
-- Docker & Docker Compose Setup
-- Apache Kafka (Event-driven architecture)
-- PostgreSQL
-- MongoDB
-- CI/CD with GitHub Actions
-- Cloud Deployment (Azure)
+A learning project with bank account APIs, DTO mapping, validation, exception
+handling, tests, and Docker configuration. Authentication needs further work,
+including the login flow and consistent registration routing.
 
-🔗 https://github.com/aljalo/Clinic-Management-System
+### [TaskFlow API](https://github.com/aljalo/taskflow-api)
 
----
+A Spring Boot project with a documented product scope and an initial application
+structure. Authentication, projects, tasks, and comments are planned work.
 
-### 🏦 Bank Management System (Spring Boot)
-Production-style backend system for managing bank accounts.
+### [Developer Portfolio](https://github.com/aljalo/developer-portfolio)
 
-Key Features:
-- Clean Architecture
-- DTO Mapping
-- Validation & Global Exception Handling
-- Unit Testing
-- Dockerized Setup
+A Thymeleaf portfolio in progress with Hero, About, and Tech Stack sections.
+Project and contact sections remain to be completed. The repository is linked
+here while a complete deployed portfolio is still pending.
 
-🔗 https://github.com/aljalo/bank-management-system-spring-boot
+## Open source
 
----
+[My YAGFI fork](https://github.com/aljalo/yagfi-back) follows
+[Regyl/yagfi-back](https://github.com/Regyl/yagfi-back), a good-first-issue aggregator.
+The original project belongs to its upstream maintainers and contributors.
+I am using the fork to study its backend and prepare focused contributions;
+I do not claim authorship of its existing implementation.
 
-## 🎓 Education
+## Education
 
-Bachelor’s Degree in Computer Science  
-Strong academic foundation in data structures, algorithms, and software engineering principles.
+Bachelor's Degree in Computer Science.
 
----
+## Currently learning
 
-## 📚 Currently Improving
+- System design and microservices integration
+- Spring Security and backend testing
+- Spring AI / MCP and practical deployment workflows
 
-- System Design Fundamentals
-- Microservices Architecture
-- Advanced Spring Security
-- Docker & Deployment Strategies
+## Contact
 
----
-
-## 📫 Contact
-
-- E-mail: ali.aljalo@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ali-aljalo
-- GitHub: https://github.com/aljalo
+- Email: [ali.aljalo@gmail.com](mailto:ali.aljalo@gmail.com)
+- LinkedIn: [Ali Al-Jalo](https://www.linkedin.com/in/ali-aljalo)
+- GitHub: [aljalo](https://github.com/aljalo)
